@@ -1,2 +1,2 @@
-3.7
+4.22
 https://github.com/Merch1k/Pass/raw/refs/heads/main/ai_studio_code.exe
