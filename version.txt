@@ -1,2 +1,2 @@
 4.62
-https://github.com/Merch1k/Pass/raw/refs/heads/main/SEO_Tools.exe
+https://github.com/Merch1k/Pass/releases/download/VERSION4.62/SEO_Tools-Pro.exe
